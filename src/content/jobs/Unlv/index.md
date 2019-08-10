@@ -7,6 +7,6 @@ range: 'July 2012 - Dec 2012'
 url: 'http://unlv.edu'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Assisted senior staff in maintaining library computer systems, physical monitors, and setup installations.
+- Tested educational sites in all major browsers to ensure cross-browser compatibility and correct mobile responsiveness.
+- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile app
