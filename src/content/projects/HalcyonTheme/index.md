@@ -2,7 +2,7 @@
 date: '2018-11-01'
 title: 'Halcyon Theme'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 
 external: 'https://halcyon-theme.netlify.com/'
 tech:
   - VS Code

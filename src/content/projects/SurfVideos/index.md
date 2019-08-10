@@ -2,7 +2,7 @@
 date: '2018-03-01'
 title: 'Surf Videos'
 image: ''
-github: 'https://github.com/bchiang7/Surf-Videos'
+github: 
 external: ''
 tech:
   - React

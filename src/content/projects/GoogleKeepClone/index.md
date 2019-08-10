@@ -2,7 +2,7 @@
 date: '2018-12-29'
 title: 'Google Keep Clone'
 cover: './google-keep-clone.png'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
+github: 
 external: 'https://keep-vue.netlify.com/'
 tech:
   - Vue
