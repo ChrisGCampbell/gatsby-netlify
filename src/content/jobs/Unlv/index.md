@@ -9,4 +9,4 @@ url: 'http://unlv.edu'
 
 - Assisted senior staff in maintaining library computer systems, physical monitors, and setup installations.
 - Tested educational sites in all major browsers to ensure cross-browser compatibility and correct mobile responsiveness.
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile app
+- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
