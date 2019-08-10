@@ -1,9 +1,9 @@
 ---
 date: '2017-03-01'
 title: 'Crowd DJ'
-image: ''
+image: 
 github: 
-external: ''
+external: 
 tech:
   - React
   - Sass

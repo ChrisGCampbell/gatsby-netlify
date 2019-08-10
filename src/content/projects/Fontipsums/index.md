@@ -1,10 +1,10 @@
 ---
 date: '2016-01-01'
 title: 'Fontipsums'
-image: ''
+image: 
 github: 
 external: 
-tech:s
+tech:
   - HTML
   - SCSS
 show: 'true'
