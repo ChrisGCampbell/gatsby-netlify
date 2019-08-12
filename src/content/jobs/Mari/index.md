@@ -7,6 +7,6 @@ range: 'July 2015 - June 2017'
 url: 'https://www.upstatement.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Developed database driven application tool for research team and international stackholders
+- Architected and implemented the back-end of MARI's embedded object oriented web application  which lets users log in and post comments with other collaborators 
+- Object oriented solutions developed in PHP, CSS, HTML, Flat File Database
