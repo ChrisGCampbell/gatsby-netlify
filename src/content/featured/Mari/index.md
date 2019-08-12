@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'MARI Theme'
+title: 'MARI Research Institute'
 cover: './mari.png'
 github: 
 external: 'https://www.odu.edu/mari
