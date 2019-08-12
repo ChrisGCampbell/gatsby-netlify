@@ -2,7 +2,7 @@
 date: '2018-12-18'
 title: 'Stack OverFlow Clone'
 cover: 
-github: 'https://github.com/ChrisGCampbell/StackOverflowClone
+github: 'https://github.com/ChrisGCampbell/StackOverflowClone'
 external: 
 tech:
   - PHP
