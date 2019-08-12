@@ -3,7 +3,7 @@ date: '1'
 title: 'MARI Research Institute'
 cover: './mari.png'
 github: 
-external: 'https://www.odu.edu/mari
+external: 'https://www.odu.edu/mari'
 tech:
   - PHP
   - Flat File System
