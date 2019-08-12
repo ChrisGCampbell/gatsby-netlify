@@ -2,13 +2,16 @@
 date: '3'
 title: 'VMS Automation'
 cover: './vmsbot.png'
-github: 
+github: 'https://github.com/ChrisGCampbell/VMS-Automation'
 external: 
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Node.js
+  - React.js
+  - MongoDB
+  - Express.js
+  - Socket.IO
+  - React-Strap
 show: 'true'
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Video Management System Bot is an automated bot used to diagnose and troubleshoot malfunctioning security cameras for the Georgia Tech Police Department.
