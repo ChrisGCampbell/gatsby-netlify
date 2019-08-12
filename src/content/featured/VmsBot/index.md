@@ -3,7 +3,7 @@ date: '3'
 title: 'VMS Automation'
 cover: './vmsbot.png'
 github: 'https://github.com/ChrisGCampbell/VMS-Automation'
-external: 
+external: 'http://www.police.gatech.edu'
 tech:
   - Node.js
   - React.js
