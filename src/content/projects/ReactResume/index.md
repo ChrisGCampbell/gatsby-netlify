@@ -1,14 +1,15 @@
 ---
 date: '2016-08-01'
-title: 'React Profile'
+title: '2015 Profile'
 image: ''
 github: 
 external: 
 tech:
-  - React
+  - Ajax
+  - PHP
   - JS
   - CSS
 show: 'true'
 ---
 
-Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.
+Online version of my 2015 resume made for fun. I was interested learning responsive design, PHP, and Ajax so this version of my resume included a full featured portfolio along with an accompanying blog.
