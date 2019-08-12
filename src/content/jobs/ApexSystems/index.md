@@ -7,7 +7,6 @@ range: 'Feb - April 2018'
 url: 'https://www.att.com'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Worked with a team of 10 developers revamping AT&T's legacy code into modern code base
+- Created customer user interface for their business solutions department
+- Interfaced with team and clients on a weekly basis, providing technological opinions and suggestions

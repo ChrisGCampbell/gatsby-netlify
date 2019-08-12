@@ -7,6 +7,6 @@ range: 'Dec 2012 - Dec 2014'
 url: 'http://reviewjournal.com'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Engineered and maintained major features of LVRJ's customer-facing web app using PHP, JavaScript, HTML and CSS
+- Proposed and implemented scalable solutions to issues identified with search engine optimization, PPC campaigns, Google analytics, and link building strategies
+- Interfaced with user experience designers and marketing team to ensure an enjoyable user experiences across LVRJ's web application
