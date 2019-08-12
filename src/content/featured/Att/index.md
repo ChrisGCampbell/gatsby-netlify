@@ -5,11 +5,13 @@ cover: './att.png'
 github: 
 external: 
 tech:
-  - React
+  - Ember.js
   - Node.js
-  - Express
-  - Spotify Web API
+  - Chart.js
+  - Less
+  - Perl
+  - AT&T Web API
 show: 'true'
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Revamped AT&T's existing business solutions desktop applications. Our team was tasked with transforming AT&Ts out of date legacy code-base into modern JavaScript codebase. 
