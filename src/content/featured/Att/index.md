@@ -3,7 +3,7 @@ date: '2'
 title: 'AT&T'
 cover: './att.png'
 github: 
-external: 
+external: 'https://www.att.com/smallbusiness/explore/hostingtechservices/index.html'
 tech:
   - Ember.js
   - Node.js
