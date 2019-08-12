@@ -2,7 +2,7 @@
 date: '2016-11-16'
 title: 'TC Cart'
 image: ''
-github: 'https://github.com/ChrisGCampbell/TCCart
+github: 'https://github.com/ChrisGCampbell/TCCart'
 external: ''
 tech:
   - Android
