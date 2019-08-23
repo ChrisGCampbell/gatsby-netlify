@@ -12,4 +12,4 @@ tech:
 show: 'true'
 ---
 
-Georgia Power main, customer face page. 
+Georgia Power main, customer face page. Responsible for implementing visual elements that users see and interact with on main customer website 
