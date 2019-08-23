@@ -1,6 +1,6 @@
 ---
 date: '2017-12-21'
-title: 'Web Developer'
+title: 'Front-End Developer'
 company: 'Georgia Power & Southwest Gas'
 location: 'Atlanta, GA'
 range: 'May - Present'
