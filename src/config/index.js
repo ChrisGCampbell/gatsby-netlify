@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Chris G Campbell | Software Engineer',
   siteDescription:
-    'Chris G Campbell is a software engineer that specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Chris G Campbell is a software engineer and project manager that specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Chris G Campbell, Chris, Campbell, ChrisGCampbell, software engineer, full stack engineer, web developer, Georgia Tech',
+    'Chris G Campbell, Chris, Campbell, ChrisGCampbell, software engineer, project manager, business, operations, area manager, full stack engineer, web developer, Georgia Tech',
   siteUrl: 'https://chriscampbell.tech',
   siteLanguage: 'en_US',
 
