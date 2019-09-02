@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Chris Campbell'
-subtitle: 'I manage projects.'
+subtitle: 'I Manage Projects.'
 contactText: 'Get In Touch'
 ---
 
