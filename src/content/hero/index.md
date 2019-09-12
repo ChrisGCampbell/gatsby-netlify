@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Chris Campbell'
-subtitle: 'I Manage Projects.'
+subtitle: 'I build things for the web.'
 contactText: 'Get In Touch'
 ---
 
-I'm a project manager based in Atlanta, GA specializing in executing and delivering exceptional, high-quality results.
+I'm a software engineer based in Atlanta, GA specializing in executing and delivering exceptional, high-quality web applications.
