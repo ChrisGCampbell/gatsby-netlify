@@ -77,6 +77,7 @@
 
   div .rebates__cta {
     margin-top: -35px;
+    left:3em;
   }
 
   .rebates__description p {
@@ -88,7 +89,8 @@
   }
 
   section.col-sm-4.desktop {
-    height:49em;
+    height:46em;
+    width: 700px;
   }
 
 
