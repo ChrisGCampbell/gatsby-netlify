@@ -61,10 +61,10 @@
     margin-bottom:0;
     padding: 10px;
     min-width:0;
-    left:0;
+    left:1.3em;
   }
 
-  .rebates__item .rebates__cta {
+  .rebatecallout .rebates__col .rebates__item .rebates__cta {
     margin-bottom:0;
   }
 }
