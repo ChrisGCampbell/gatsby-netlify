@@ -58,9 +58,10 @@
 
   .rebates__cta{
     width:83%;
-    left:0;
+    margin-bottom:0;
     padding: 0;
     min-width:0;
+    left:0;
   }
 }
 @media screen and (max-width: 768px) {
