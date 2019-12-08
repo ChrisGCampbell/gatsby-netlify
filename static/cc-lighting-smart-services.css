@@ -71,8 +71,10 @@
   }
 
   .rebates__item {
-    background-color: #E5EEF0;
+    background-color: #E5EEF0 !important;
   }
 
-
+  .rebates__title {
+    margin-top:30px;
+  }
 }
