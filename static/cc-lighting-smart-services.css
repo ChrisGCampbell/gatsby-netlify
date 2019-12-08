@@ -70,7 +70,7 @@
     bottom: -15px;
     font-size:25px;
   }
-  .cta {
+  a.cta {
     font-size:35px !important;
   }
 }
