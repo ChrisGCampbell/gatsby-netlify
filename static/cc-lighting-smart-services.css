@@ -79,7 +79,7 @@
   a .cta {
     color:green;
   }
-  body {
-    background-color:green !important;
+  html,body {
+    background-color:red !important;
   }
 }
