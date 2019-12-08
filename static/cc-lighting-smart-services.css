@@ -1,0 +1,64 @@
+/* Lighting and Smart Services */
+
+@media screen and (min-width: 992px) {
+  .rebates__container.component:before {
+    content: ' ';
+    position: absolute;
+    background: #f2f2f2;
+    width: 100vw;
+    height: 8vh;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .rebates__container.component .rebates__filters {
+    margin-bottom: 0;
+    height: 8vh;
+  }
+  .rebates__container.component .rebates__label {
+    padding-top: 0;
+    line-height: 8vh;
+  }
+  .rebates__container.component .rebates__filter.category,
+  .rebates__container.component .rebates__filter.subcategory {
+    position: relative;
+    top: 1.5vh;
+  }
+  .rebates__container.component .rebates__pages {
+    top: auto;
+    line-height: 8vh;
+  }
+  .rebates__container.component .rebates__grid {
+    margin-top: 3vh;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .adaptive-carousel .slides .item .copy article p {
+    width: 100%;
+  }
+  .headingcomp .heading--text {
+    padding: 3rem 0 0 0;
+  }
+  .heading_basic.text-left .heading--text {
+    padding-top: 1em;
+  }
+  .headingcomp + .columnctrcomp {
+    margin-top: .5em;
+  }
+  .row.grid-small section.col-sm-7 {
+    padding-top: 0;
+    width: 100%;
+  }
+  .row.grid-small section.col-sm-5 {
+    width: 100%;
+  }
+  .row.programs-grid .col-sm-6:last-child {
+    padding-top: 0;
+  }
+}
+@media screen and (max-width: 767px) {
+  .columnctrcomp .row.programs-grid section.col-sm-6 {
+    padding-top: 0 !important;
+    margin-top: -1.5em;
+  }
+}
