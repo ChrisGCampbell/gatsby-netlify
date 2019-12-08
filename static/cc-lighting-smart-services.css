@@ -61,4 +61,12 @@
     padding-top: 0 !important;
     margin-top: -1.5em;
   }
+
+  .no-icon .rebates__cta {
+    bottom:0px;
+  }
+
+  .rebates__cta {
+    bottom: -15px;
+  }
 }
