@@ -75,6 +75,6 @@
   }
 
   .rebates__title {
-    margin-top:30px;
+    display:none;
   }
 }
