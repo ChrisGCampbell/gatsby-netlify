@@ -76,4 +76,7 @@
   .chris {
     font-size:35px !important;
   }
+  a .cta {
+    color:green;
+  }
 }
