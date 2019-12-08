@@ -1,32 +1,32 @@
 /* Lighting and Smart Services */
 
-@media screen and (max-width: 769px) {
+/*@media screen and (max-width: 769px) {*/
 
 
-  .no-icon .rebates__cta {
-    bottom:0px;
-  }
+/*  .no-icon .rebates__cta {*/
+/*    bottom:0px;*/
+/*  }*/
 
-  div .rebates__cta {
-    margin-top: -35px;
-    left:3em;
-  }
+/*  div .rebates__cta {*/
+/*    margin-top: -35px;*/
+/*    left:3em;*/
+/*  }*/
 
-  .rebates__description p {
-    margin-bottom: 10px; !important;
-  }
+/*  .rebates__description p {*/
+/*    margin-bottom: 10px; !important;*/
+/*  }*/
 
-  .rebates__item {
-    background-color: #E5EEF0 !important;
-  }
+/*  .rebates__item {*/
+/*    background-color: #E5EEF0 !important;*/
+/*  }*/
 
-  section.col-sm-4.desktop {
-    height:46em;
-    width: 700px;
-  }
+/*  section.col-sm-4.desktop {*/
+/*    height:46em;*/
+/*    width: 700px;*/
+/*  }*/
 
 
-}
+/*}*/
 
 
 @media screen and (max-width: 991px) {

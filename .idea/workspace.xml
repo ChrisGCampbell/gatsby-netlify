@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d9cd18-1e02-4a11-b95b-4f10558588e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/cc-lighting-smart-services.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/cc-lighting-smart-services.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575826234848</updated>
-      <workItem from="1575826237311" duration="20789000" />
+      <workItem from="1575826237311" duration="20886000" />
     </task>
     <servers />
   </component>
