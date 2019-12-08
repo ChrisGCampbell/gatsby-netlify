@@ -57,17 +57,18 @@
   }
 }
 @media screen and (max-width: 767px) {
-  .columnctrcomp .row.programs-grid section.col-sm-6 {
-    padding-top: 0 !important;
-    margin-top: -1.5em;
-  }
+
 
   .no-icon .rebates__cta {
     bottom:0px;
   }
 
   div .rebates__cta {
-    bottom: -15px;
+    margin-top: -35px;
+  }
+
+  .rebates__description p {
+    margin-bottom: 10px; !important;
   }
 
   .rebates__item {
