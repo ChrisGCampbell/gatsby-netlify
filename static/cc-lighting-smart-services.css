@@ -68,18 +68,9 @@
 
   div .rebates__cta {
     bottom: -15px;
-    font-size:25px;
   }
-  a.cta {
-    font-size:35px !important;
-  }
-  .chris {
-    font-size:35px !important;
-  }
-  a .cta {
-    color:red;
-  }
-  html,body {
-    background-color:red !important;
-  }
+
+
+
+
 }
