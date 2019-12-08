@@ -1,36 +1,33 @@
 /* Lighting and Smart Services */
 
-@media screen and (min-width: 992px) {
-  .rebates__container.component:before {
-    content: ' ';
-    position: absolute;
-    background: #f2f2f2;
-    width: 100vw;
-    height: 8vh;
-    left: 50%;
-    transform: translateX(-50%);
+@media screen and (max-width: 770px) {
+
+
+  .no-icon .rebates__cta {
+    bottom:0px;
   }
-  .rebates__container.component .rebates__filters {
-    margin-bottom: 0;
-    height: 8vh;
+
+  div .rebates__cta {
+    margin-top: -35px;
+    left:3em;
   }
-  .rebates__container.component .rebates__label {
-    padding-top: 0;
-    line-height: 8vh;
+
+  .rebates__description p {
+    margin-bottom: 10px; !important;
   }
-  .rebates__container.component .rebates__filter.category,
-  .rebates__container.component .rebates__filter.subcategory {
-    position: relative;
-    top: 1.5vh;
+
+  .rebates__item {
+    background-color: #E5EEF0 !important;
   }
-  .rebates__container.component .rebates__pages {
-    top: auto;
-    line-height: 8vh;
+
+  section.col-sm-4.desktop {
+    height:46em;
+    width: 700px;
   }
-  .rebates__container.component .rebates__grid {
-    margin-top: 3vh;
-  }
+
+
 }
+
 
 @media screen and (max-width: 991px) {
   .adaptive-carousel .slides .item .copy article p {
@@ -69,31 +66,38 @@
   }
 }
 
-@media screen and (max-width: 770px) {
 
 
-  .no-icon .rebates__cta {
-    bottom:0px;
+@media screen and (min-width: 992px) {
+  .rebates__container.component:before {
+    content: ' ';
+    position: absolute;
+    background: #f2f2f2;
+    width: 100vw;
+    height: 8vh;
+    left: 50%;
+    transform: translateX(-50%);
   }
-
-  div .rebates__cta {
-    margin-top: -35px;
-    left:3em;
+  .rebates__container.component .rebates__filters {
+    margin-bottom: 0;
+    height: 8vh;
   }
-
-  .rebates__description p {
-    margin-bottom: 10px; !important;
+  .rebates__container.component .rebates__label {
+    padding-top: 0;
+    line-height: 8vh;
   }
-
-  .rebates__item {
-    background-color: #E5EEF0 !important;
+  .rebates__container.component .rebates__filter.category,
+  .rebates__container.component .rebates__filter.subcategory {
+    position: relative;
+    top: 1.5vh;
   }
-
-  section.col-sm-4.desktop {
-    height:46em;
-    width: 700px;
+  .rebates__container.component .rebates__pages {
+    top: auto;
+    line-height: 8vh;
   }
-
-
+  .rebates__container.component .rebates__grid {
+    margin-top: 3vh;
+  }
 }
+
 
