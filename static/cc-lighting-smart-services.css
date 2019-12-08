@@ -75,5 +75,9 @@
     background-color: #E5EEF0 !important;
   }
 
+  section.col-sm-4.desktop {
+    height:47em;
+  }
+
 
 }
