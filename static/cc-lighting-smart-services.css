@@ -70,7 +70,9 @@
     bottom: -15px;
   }
 
-
+  .rebates__item {
+    background-color: #E5EEF0;
+  }
 
 
 }
