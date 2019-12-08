@@ -55,6 +55,13 @@
   .row.programs-grid .col-sm-6:last-child {
     padding-top: 0;
   }
+
+  .rebates__cta{
+    width:83%;
+    left:0;
+    padding: 0;
+    min-width:0;
+  }
 }
 @media screen and (max-width: 768px) {
 
