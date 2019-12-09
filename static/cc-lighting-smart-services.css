@@ -101,7 +101,7 @@
 }
 
 @media screen and (max-width: 371px) {
-  section.col-sm-6 desktop {
+  section.col-sm-6.desktop {
     height:500px !important;
   }
 }
