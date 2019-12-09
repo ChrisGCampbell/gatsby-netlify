@@ -29,42 +29,42 @@
 /*}*/
 
 
-@media screen and (max-width: 991px) {
-  .adaptive-carousel .slides .item .copy article p {
-    width: 100%;
-  }
-  .headingcomp .heading--text {
-    padding: 3rem 0 0 0;
-  }
-  .heading_basic.text-left .heading--text {
-    padding-top: 1em;
-  }
-  .headingcomp + .columnctrcomp {
-    margin-top: .5em;
-  }
-  .row.grid-small section.col-sm-7 {
-    padding-top: 0;
-    width: 100%;
-  }
-  .row.grid-small section.col-sm-5 {
-    width: 100%;
-  }
-  .row.programs-grid .col-sm-6:last-child {
-    padding-top: 0;
-  }
+/*@media screen and (max-width: 991px) {*/
+/*  .adaptive-carousel .slides .item .copy article p {*/
+/*    width: 100%;*/
+/*  }*/
+/*  .headingcomp .heading--text {*/
+/*    padding: 3rem 0 0 0;*/
+/*  }*/
+/*  .heading_basic.text-left .heading--text {*/
+/*    padding-top: 1em;*/
+/*  }*/
+/*  .headingcomp + .columnctrcomp {*/
+/*    margin-top: .5em;*/
+/*  }*/
+/*  .row.grid-small section.col-sm-7 {*/
+/*    padding-top: 0;*/
+/*    width: 100%;*/
+/*  }*/
+/*  .row.grid-small section.col-sm-5 {*/
+/*    width: 100%;*/
+/*  }*/
+/*  .row.programs-grid .col-sm-6:last-child {*/
+/*    padding-top: 0;*/
+/*  }*/
 
-  .rebates__cta{
-    width:89%;
-    margin-bottom:0;
-    padding: 10px;
-    min-width:0;
-    left:1.3em;
-  }
+/*  .rebates__cta{*/
+/*    width:89%;*/
+/*    margin-bottom:0;*/
+/*    padding: 10px;*/
+/*    min-width:0;*/
+/*    left:1.3em;*/
+/*  }*/
 
-  .rebatecallout .rebates__col .rebates__item .rebates__cta {
-    margin-bottom:0;
-  }
-}
+/*  .rebatecallout .rebates__col .rebates__item .rebates__cta {*/
+/*    margin-bottom:0;*/
+/*  }*/
+/*}*/
 
 
 
