@@ -66,7 +66,11 @@
 /*  }*/
 /*}*/
 
-
+@media screen and (max-width: 375px) {
+  div.columnctrcomp.section {
+    height:900px !important;
+  }
+}
 
 @media screen and (min-width: 992px) {
   .rebates__container.component:before {
@@ -100,10 +104,6 @@
   }
 }
 
-@media screen and (max-width: 375px) {
-  div.columnctrcomp.section {
-    height:900px !important;
-  }
-}
+
 
 
