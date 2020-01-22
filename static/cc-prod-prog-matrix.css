@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+.rebates.section {margin-top: 0px !important;}
+.gray-filter div.full-width {border-bottom: 100px solid #f2f2f2}
+
+.rebates__col {background-color: #E5EEF0}
+.rebates__item {background-color: #ffffff;}
+.rebates__title, .rebates__description {padding:0px 20px}
+
+.cta::after {display: none;}
+
+.rebates__item {height:550px!important;}
+.no-icon .rebates__item {height:500px!important;}
+
+.rebates__cta a.cta {color: #ffffff; text-align:center;}
+.rebates__cta:hover a.cta {color: #ec1c24; text-align:center; cursor:pointer}
+
+.rebates__cta {background-color: rgb(236, 28, 36);
+  display: block;
+  color: white;
+  font-size: 1.2em;
+  text-transform: capitalize;
+  line-height: 1;
+  min-width: 16rem;
+  width: 80%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(236, 28, 36);
+  border-image: initial;
+  border-radius: 0px;
+  transition: color 0.5s ease-in-out 0s, border 0.5s ease-in-out 0s, background 0.5s ease-in-out 0s;
+  padding: 1em 2em;
+  position:absolute; bottom:10px; left:10%}
+
+.rebates__cta:hover {background-color: rgb(236, 28, 36,0);transition: color 0.5s ease-in-out 0s, border 0.5s ease-in-out 0s, background 0.5s ease-in-out 0s;}
+
+.no-icon .rebates__cta {bottom:40px;}
+.no-icon .rebates__description p {margin-bottom: 100px !important;}
+
+
+.rebates__col.col-xs-12.col-sm-6.col-md-4[data-tags*="Efficiency and Maintenance"] .rebates__title::before {content: '';
+  display: block;
+  width: 44px;
+  height: 44px;
+  margin:-10px auto 10px;
+  background: url(https://www.georgiapower.com/content/dam/georgia-power/callout-icons/icon-maintenance-efficiency.png) no-repeat center center;}
+
+.rebates__col.col-xs-12.col-sm-6.col-md-4[data-tags*="Business Solutions"] .rebates__title::before {content: '';
+  display: block;
+  width: 44px;
+  height: 44px;
+  margin:-10px auto 10px;
+  background: url(https://www.georgiapower.com/content/dam/georgia-power/callout-icons/icon-electric-car-solar-42.png) no-repeat center center;}
+
+.rebates__col.col-xs-12.col-sm-6.col-md-4[data-tags*="Lighting and Smart Services"] .rebates__title::before {content: '';
+  display: block;
+  width: 44px;
+  height: 44px;
+  margin:-10px auto 10px;
+  background: url(https://www.georgiapower.com/content/dam/georgia-power/callout-icons/icon-lighting-smart-services.png) no-repeat center center;}
+
+.rebates__col.col-xs-12.col-sm-6.col-md-4[data-tags*="Utility Services"] .rebates__title::before {content: '';
+  display: block;
+  width: 44px;
+  height: 44px;
+  margin:-10px auto 10px;
+  background: url(https://www.georgiapower.com/content/dam/georgia-power/callout-icons/util-serv-icon.png) no-repeat center center;}
+
+.rebates__col.col-xs-12.col-sm-6.col-md-4[data-tags*="Energy Efficiency"] .rebates__title::before {content: '';
+  display: block;
+  width: 44px;
+  height: 44px;
+  margin:-10px auto 10px;
+  background: url(https://www.georgiapower.com/content/dam/georgia-power/callout-icons/ee-icon.png) no-repeat center center;}
+
+.rebates__title, .rebates__description {text-align:center;}
+
+.rebates .rebates__grid .rebates__col .rebates__item .rebates__description p  {margin-bottom: 75px;}
+
+.adaptive-carousel .slides .item .copy article p {width:60%;}
+.adaptive-carousel .slides .item .copy a:hover {color:#ffffff!important;}

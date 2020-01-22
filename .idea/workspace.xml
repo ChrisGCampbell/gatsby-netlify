@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1d80f5b9-e7b9-4174-8d17-f3e7b70b3ee2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/about/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/jobs/GeorgiaPower/index.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/jobs/GeorgiaTech/index.md" beforeDir="false" />
+=======
+    <list default="true" id="c8d9cd18-1e02-4a11-b95b-4f10558588e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/static/cc-lighting-smart-services.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/cc-lighting-smart-services.css" afterDir="false" />
+>>>>>>> 5fa45eb16f488f8136568f708626dffc88b296a1
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +27,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1PwpP3dsn2X5z9cZQEZN1iSgpla" />
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\x2cgcamp\Downloads\Coding Projects\gatsby\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ui4ll3qESyL86GlmyXXAE0Jghf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,8 +48,8 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\CC\Documents\Coding Projects\chriscampbelltech-website\node_modules\prettier" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\x2cgcamp\Downloads\Coding Projects\gatsby\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,10 +68,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1d80f5b9-e7b9-4174-8d17-f3e7b70b3ee2" name="Default Changelist" comment="" />
-      <created>1566794985678</created>
+      <changelist id="c8d9cd18-1e02-4a11-b95b-4f10558588e4" name="Default Changelist" comment="" />
+      <created>1575826234848</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1566794985678</updated>
       <workItem from="1566794988114" duration="2914000" />
       <workItem from="1567373640079" duration="1910000" />
@@ -76,6 +89,10 @@
       <workItem from="1578016645819" duration="613000" />
       <workItem from="1578017534263" duration="84000" />
       <workItem from="1579727620748" duration="285000" />
+=======
+      <updated>1575826234848</updated>
+      <workItem from="1575826237311" duration="25579000" />
+>>>>>>> 5fa45eb16f488f8136568f708626dffc88b296a1
     </task>
     <servers />
   </component>
@@ -87,9 +104,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
