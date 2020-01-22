@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1d80f5b9-e7b9-4174-8d17-f3e7b70b3ee2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/jobs/GeorgiaPower/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/jobs/GeorgiaTech/index.md" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +24,14 @@
   </component>
   <component name="ProjectId" id="1PwpP3dsn2X5z9cZQEZN1iSgpla" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,15 +39,15 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\CC\Documents\Coding Projects\chriscampbelltech-website\node_modules\prettier" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -66,7 +72,10 @@
       <workItem from="1568301290149" duration="1497000" />
       <workItem from="1568575340442" duration="3685000" />
       <workItem from="1568917985508" duration="607000" />
-      <workItem from="1575823697234" duration="1422000" />
+      <workItem from="1575823697234" duration="3686000" />
+      <workItem from="1578016645819" duration="613000" />
+      <workItem from="1578017534263" duration="84000" />
+      <workItem from="1579727620748" duration="285000" />
     </task>
     <servers />
   </component>
