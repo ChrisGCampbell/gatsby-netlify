@@ -7,6 +7,8 @@ external: ''
 tech:
   - Android
   - Java
+  - Big Data
+  - Data modeling & statistical analysis
 
 show: 'true'
 ---

@@ -2,10 +2,10 @@
 date: '2'
 title: 'AT&T'
 cover: './att.png'
-github: 
+github:
 external: 'https://www.att.com/smallbusiness/explore/hostingtechservices/index.html'
 tech:
-  - Ember.js
+  - Python
   - Node.js
   - Chart.js
   - Less
@@ -14,4 +14,4 @@ tech:
 show: 'true'
 ---
 
-Revamped AT&T's existing business solutions desktop applications. Our team was tasked with transforming AT&Ts out of date legacy code-base into modern JavaScript codebase. 
+Revamped AT&T's existing business solutions desktop applications. Our team was tasked with transforming AT&Ts out of date legacy code-base into modern python codebase.

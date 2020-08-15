@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'MARI Research Institute'
+title: 'Old Dominion University Research Institute'
 cover: './mari.png'
-github: 
+github:
 external: 'https://www.odu.edu/mari'
 tech:
   - PHP
-  - Flat File System
-  - HTML5
-  - CSS
-  - LAMP Stack
+  - Databases & Flat File System
+  - Python
+  - Recommendation System
+  - Django
 show: 'true'
 ---
 

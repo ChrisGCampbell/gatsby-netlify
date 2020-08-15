@@ -9,6 +9,7 @@ tech:
   - Angular
   - MongoDB
   - Microsoft Health Data Valut API
+  - Apache Spark
 show: 'true'
 ---
 

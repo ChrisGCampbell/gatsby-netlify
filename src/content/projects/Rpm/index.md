@@ -3,10 +3,13 @@ date: '2017-11-01'
 title: 'Ravens Progressive Matrices '
 image: ''
 github: 'https://github.com/ChrisGCampbell/KBAI-Raven-Progressive-Matrices'
-external: 
+external:
 tech:
   - Python
-  
+  - Machine Learning Models
+  - Regression Models
+  - Time Series
+
 show: 'true'
 ---
 
