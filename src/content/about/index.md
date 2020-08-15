@@ -18,7 +18,7 @@ Hello! I'm Chris, a software engineer based in Atlanta, GA who enjoys building c
 
 Shortly after graduating from [Nevada State](https://www.nsc.edu/) with specializing in IT I worked as a backend engineer at AT&T and as a research scientist at Old Dominion University Research Institute. I later enrolled in [Georgia Tech](https://www.gatech.edu/)'s graduate machine learning program while simultaneously pursuing a graduate degree in software engineer at [ODU](https://www.cs.odu.edu/).
 
-While working on backend systems I was awarded the backend badge [IBM community badge for Node.js](https://www.youracclaim.com/badges/b057e606-2624-4cca-9f09-bad6d9c9b444/public_url)
+While working on a IOT backend system for the police department I was awarded the backend badge [IBM community badge for Node.js](https://www.youracclaim.com/earner/earned/badge/c9864315-6d45-476a-8774-affcd9a429f7)
 
 Here's a few technologies I've been working with recently:
 
