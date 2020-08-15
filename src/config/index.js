@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Chris G Campbell | Software Engineer',
+  siteTitle: 'Chris G Campbell | Machine Learning Engineer',
   siteDescription:
-    'Chris G Campbell is a software engineer and project manager that specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Chris G Campbell is a machine learning engineer and data scientist that specializes in developing exceptional, high-quality computational applications.',
   siteKeywords:
-    'Chris G Campbell, Chris, Campbell, ChrisGCampbell, software engineer, project manager, business, operations, area manager, full stack engineer, web developer, Georgia Tech',
+    'Chris G Campbell, Chris, Campbell, ChrisGCampbell, software engineer, machine learning, data scientist, Georgia Tech',
   siteUrl: 'https://chriscampbell.tech',
   siteLanguage: 'en_US',
 
