@@ -2,16 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Angular
-  - Vue
-  - Node.js
-  - Express
+  - Python, R, Scala, Go
+  - Apache Zeppelin
+  - TensorFlow
+  - Spark
+  - Databases
+  - Machine Learning
+  - Google Cloud AI
+  - Node.js, JavaScript
+  - Descriptive Statistics
+  - Hypothesis Testing
   - Java
-  - Spring
-  - Go
+  - MATLAB
 ---
 
 Hello! I'm Chris, a software engineer based in Atlanta, GA who enjoys building computational systems that live on the internet. I develop AI systems that makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks.
